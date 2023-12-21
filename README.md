@@ -1,1 +1,1 @@
-# llm-music-teacher
+# LLM Music Teacher
